@@ -1,27 +1,46 @@
-<h1 align="center">👋 Hello | مرحبًا بكم</h1>
+<div align="center">
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>  
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Working" width="40%"/>
+
+---
+
+### ✨ Hi there, I'm Ammar | مرحباً، أنا عمار ✨  
+🎓 طالب في كلية الحاسبات والذكاء الاصطناعي – سنة أولى  
+💻 أتعلم حالياً ++C و Java  
+🚀 أخطط لتعلم Python و C في الإجازة  
+📌 هدفي هو بناء مشاريع برمجية مفيدة واحترافية
+
+---
+
+### 🧰 Tech Stack | المهارات الحالية والمستقبلية
 
 <p align="center">
-  <b>I'm Ammar</b><br>
-  🎓 A first-year student at Faculty of Computers and Artificial Intelligence<br>
-  💻 Learning C++, Java, and soon Python and C.<br>
-  🚀 Aspiring to build creative and powerful software projects.<br>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white"/>
 </p>
 
 ---
 
-## 🧠 About Me | عني
+### 🔍 About Me | عني
 
-```java
-public class AboutMe {
-    String name = "Ammar";
-    String university = "Faculty of Computers and Artificial Intelligence";
-    String level = "First Year";
-    String[] languages = {"C++", "Java", "Python (soon)", "C (soon)"};
-    boolean passionate = true;
+```cpp
+#include<iostream>
+using namespace std;
 
-    public void learnAndBuild() {
-        if (passionate) {
-            System.out.println("Keep learning and building!");
-        }
+class Ammar {
+public:
+    string university = "Faculty of Computers and AI";
+    string level = "First Year";
+    string knownLanguages[2] = {"C++", "Java"};
+    string learningPlan[2] = {"Python", "C"};
+    
+    void keepLearning() {
+        cout << "Never stop learning and building projects!" << endl;
     }
-}
+};
