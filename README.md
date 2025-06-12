@@ -1,49 +1,53 @@
-<div align="center" width="50">
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%" /> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" /><br> 
-
-<details>
-  <summary><strong>Busy coding & Vibing to :</strong></summary>
-  [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
-</details>
-
-![Profile Views](https://komarev.com/ghpvc/?username=ammarakrab&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fammarakrab&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/ammarakrab) <br>
-</div>
-
----
+<p align="center">
+  <h1>Hello 👋, I'm <b>Ammar Akrab</b></h1>
+  <img alt="Welcome Badge" src="https://img.shields.io/badge/Welcome-Here-brightgreen?style=for-the-badge&logo=github" />
+</p>
 
 ## About Me
-
-Hi, I’m Ammar, a beginner programmer studying at the Faculty of Computers and Artificial Intelligence, first year.  
-I have learned C++ and Java, and I plan to learn Python and C during the vacation along with some other programming languages.
-
----
-
-## Tools & Technologies I Use
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+I'm a beginner software developer, continuously learning and improving my skills across multiple programming languages.  
+I'm passionate about growing in programming and delivering meaningful projects.
 
 ---
 
-## Connect with me
+## Programming Languages I Know
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/ammar.akrab)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mero_3krab)  
-[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/ammarakrab)  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="50" height="50" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="50" height="50" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="50" height="50" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="50" height="50" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="50" height="50" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="50" height="50" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" width="50" height="50" style="margin: 0 10px;" />
+</p>
+
 
 ---
 
-<div align="center" >
-  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-</div>
+## Contact Me
+
+<p align="center">
+  <a href="https://github.com/Ammar-Mero" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="40" />
+  </a>
+  <a href="https://www.facebook.com/ammar.akrab" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" height="40" />
+  </a>
+  <a href="https://www.instagram.com/mero_3krab" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="40" />
+  </a>
+  <a href="http://t.me/ammarakrab" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white" height="40" />
+  </a>
+  <a href="https://x.com/ammar3krab?t=Jc1Dmifb3zVqRkvZ0fP3VQ&s=09" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img alt="X" src="https://img.shields.io/badge/X-1DA1F2?style=flat&logo=twitter&logoColor=white" height="40" />
+  </a>
+</p>
+
+---
+
+> "Continuous learning is the key to success in programming."
+
+---
+
+Thanks for visiting!  
