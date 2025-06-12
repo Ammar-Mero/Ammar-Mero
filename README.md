@@ -21,7 +21,6 @@ I'm passionate about growing in programming and delivering meaningful projects.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" width="50" height="50" style="margin: 0 10px;" />
 </p>
 
-
 ---
 
 ## Contact Me
@@ -43,6 +42,17 @@ I'm passionate about growing in programming and delivering meaningful projects.
     <img alt="X" src="https://img.shields.io/badge/X-1DA1F2?style=flat&logo=twitter&logoColor=white" height="40" />
   </a>
 </p>
+
+---
+
+<!-- Profile Summary Cards -->
+<div align="center" dir="auto">
+  <a href="https://github.com/Ammar-Mero" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%" style="max-width: 100%;" alt="GitHub Stats" />
+    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%" style="max-width: 100%;" alt="Repos Per Language" />
+    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%" style="max-width: 100%;" alt="Most Commit Language" />
+  </a>
+</div>
 
 ---
 
