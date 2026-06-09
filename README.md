@@ -1,63 +1,76 @@
-<p align="center">
-  <h1>Hello 👋, I'm <b>Ammar Akrab</b></h1>
-  <img alt="Welcome Badge" src="https://img.shields.io/badge/Welcome-Here-brightgreen?style=for-the-badge&logo=github" />
-</p>
-
-## About Me
-I'm a beginner software developer, continuously learning and improving my skills across multiple programming languages.  
-I'm passionate about growing in programming and delivering meaningful projects.
-
----
-
-## Programming Languages I Know
+<h1 align="center">Hi, I'm Ahmed Adel  👋</h1>
+<h3 align="center">Flutter Developer 🧠 | Content Creator 🎥 | Founder of <a href="https://learrnsimply.com" target="_blank">Learn Simply</a> 📚</h3>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="50" height="50" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="50" height="50" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="50" height="50" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="50" height="50" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="50" height="50" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="50" height="50" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" width="50" height="50" style="margin: 0 10px;" />
+  <a href="https://instagram.com/ahmed.aaddel"><img src="https://img.shields.io/badge/@ahmed.aaddel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ahmed-adel-11bba6177"><img src="https://img.shields.io/badge/Ahmed%20Adel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-Learn_Simply-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://facebook.com/ahmed.learnsimply"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://learrnsimply.com"><img src="https://img.shields.io/badge/Website-learrnsimply.com-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
 
-## Contact Me
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
+
+## 🚀 About Me
+
+```dart
+class AhmedAdel {
+  String role = "Flutter Developer & Instructor";
+  String language = "Arabic";
+  String brand = "Learn Simply | اتعلم ببساطة";
+  List<String> skills = [
+    "Flutter UI/UX",
+    "Dart Animations",
+    "Python, Java, C++",
+    "GitHub & Copilot",
+    "Arabic Content Creation"
+    "Simplify Code"
+  ];
+}
+```
+## 🔥 Highlights
+
+- 🔥 Built a YouTube channel with **240K+ subscribers**
+- 👨‍🏫 Teaching programming in **simple Arabic** — clear, visual, and practical
+- 📚 Founder of [learrnsimply.com](https://learrnsimply.com) – an Arabic-first coding school
+- 🧩 Building **reusable Flutter components**, animations & UI kits
+- 📦 Making **clean code fun** to learn for beginners
+
+---
+
+## 🧰 Tech Toolbox
 
 <p align="center">
-  <a href="https://github.com/Ammar-Mero" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="40" />
-  </a>
-  <a href="https://www.facebook.com/ammar.akrab" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" height="40" />
-  </a>
-  <a href="https://www.instagram.com/mero_3krab" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="40" />
-  </a>
-  <a href="http://t.me/ammarakrab" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white" height="40" />
-  </a>
-  <a href="https://x.com/ammar3krab?t=Jc1Dmifb3zVqRkvZ0fP3VQ&s=09" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
-    <img alt="X" src="https://img.shields.io/badge/X-1DA1F2?style=flat&logo=twitter&logoColor=white" height="40" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,java,python,vscode,github,figma,git,bash" />
 </p>
 
 ---
 
-<!-- Profile Summary Cards -->
-<div align="center" dir="auto">
-  <a href="https://github.com/Ammar-Mero" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%" style="max-width: 100%;" alt="GitHub Stats" />
-    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%" style="max-width: 100%;" alt="Repos Per Language" />
-    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%" style="max-width: 100%;" alt="Most Commit Language" />
-  </a>
-</div>
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedlearnSimply&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedlearnSimply&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+</p>
 
 ---
 
-> "Continuous learning is the key to success in programming."
+## 🎬 My YouTube Focus
+
+- ✅ **Flutter basics to advanced** (in Arabic)
+- ✅ **Problem-solving** with C++ & Java
+- ✅ **Real app UIs** with animations
+- ✅ Tips for **VS Code, Git**, and productivity
+- ✅ Free projects and walkthroughs
+
+▶️ Check it out: [**YouTube - Learn Simply**](https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1)
 
 ---
 
-Thanks for visiting!  
+
+
+## ⚡️ Motto
+
+> **“Let’s simplify learning, one line of code at a time.”**
