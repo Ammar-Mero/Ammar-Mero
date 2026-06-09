@@ -1,12 +1,10 @@
-<h1 align="center">Hi, I'm Ahmed Adel  👋</h1>
-<h3 align="center">Flutter Developer 🧠 | Content Creator 🎥 | Founder of <a href="https://learrnsimply.com" target="_blank">Learn Simply</a> 📚</h3>
+<h1 align="center">Hi, I'm Ammar Akrab 👋</h1>
+<h3 align="center">Computer Science Student 💻 | Software Development Enthusiast 🚀 | Open to Internship Opportunities</h3>
 
 <p align="center">
-  <a href="https://instagram.com/ahmed.aaddel"><img src="https://img.shields.io/badge/@ahmed.aaddel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ahmed-adel-11bba6177"><img src="https://img.shields.io/badge/Ahmed%20Adel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-Learn_Simply-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://facebook.com/ahmed.learnsimply"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://learrnsimply.com"><img src="https://img.shields.io/badge/Website-learrnsimply.com-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="YOUR_GITHUB_LINK"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -15,62 +13,81 @@
 
 ## 🚀 About Me
 
-```dart
-class AhmedAdel {
-  String role = "Flutter Developer & Instructor";
-  String language = "Arabic";
-  String brand = "Learn Simply | اتعلم ببساطة";
-  List<String> skills = [
-    "Flutter UI/UX",
-    "Dart Animations",
-    "Python, Java, C++",
-    "GitHub & Copilot",
-    "Arabic Content Creation"
-    "Simplify Code"
-  ];
-}
+```cpp
+class Mero {
+public:
+    string role = "Computer Science Student";
+    string focus = "Software Development";
+
+    vector<string> skills = {
+        "C++",
+        "Java",
+        "Python",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Git & GitHub",
+        "Problem Solving"
+    };
+
+    vector<string> interests = {
+        "Web Development",
+        "Desktop Applications",
+        "Software Engineering",
+        "UI/UX Design"
+    };
+};
 ```
+
 ## 🔥 Highlights
 
-- 🔥 Built a YouTube channel with **240K+ subscribers**
-- 👨‍🏫 Teaching programming in **simple Arabic** — clear, visual, and practical
-- 📚 Founder of [learrnsimply.com](https://learrnsimply.com) – an Arabic-first coding school
-- 🧩 Building **reusable Flutter components**, animations & UI kits
-- 📦 Making **clean code fun** to learn for beginners
+- 🎓 Computer Science Student
+- 💻 Passionate about Software Development and Problem Solving
+- 🚀 Building real-world projects to improve technical skills
+- 🌱 Constantly learning new technologies and development practices
+- 🤝 Open to Internship and Collaboration Opportunities
 
 ---
 
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,java,python,vscode,github,figma,git,bash" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,git,github,vscode" />
 </p>
+
+---
+
+## 📂 Featured Projects
+
+### 📚 Smart Study Planner
+- Study and task management system
+- Arabic voice input support
+- Built with HTML, CSS, and JavaScript
+
+### 🚗 Car Showroom System
+- Vehicle and showroom management system
+- User-friendly interface and organized data management
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedlearnSimply&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedlearnSimply&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 </p>
 
 ---
 
-## 🎬 My YouTube Focus
+## 🎯 Current Goals
 
-- ✅ **Flutter basics to advanced** (in Arabic)
-- ✅ **Problem-solving** with C++ & Java
-- ✅ **Real app UIs** with animations
-- ✅ Tips for **VS Code, Git**, and productivity
-- ✅ Free projects and walkthroughs
-
-▶️ Check it out: [**YouTube - Learn Simply**](https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1)
+- 📚 Strengthen Data Structures & Algorithms skills
+- 💻 Build more full-stack and desktop applications
+- 🚀 Gain hands-on industry experience through internships
+- 🌟 Contribute to open-source projects
 
 ---
 
+## ⚡ Motto
 
-
-## ⚡️ Motto
-
-> **“Let’s simplify learning, one line of code at a time.”**
+> **"Learning, Building, and Improving Every Day."**
