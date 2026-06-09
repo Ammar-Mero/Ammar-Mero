@@ -1,10 +1,22 @@
-<h1 align="center">Hi, I'm Ammar Akrab 👋</h1>
+<h1 align="center">Hi, I'm Mero 👋</h1>
 <h3 align="center">Computer Science Student 💻 | Software Development Enthusiast 🚀 | Open to Internship Opportunities</h3>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="YOUR_GITHUB_LINK"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Ammar-Mero">
+    <img src="https://img.shields.io/badge/GitHub-Ammar--Mero-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/ammar-akrab-36b919414">
+    <img src="https://img.shields.io/badge/LinkedIn-Ammar%20Akrab-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.facebook.com/ammar.akrab">
+    <img src="https://img.shields.io/badge/Facebook-Ammar%20Akrab-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/mero_3krab">
+    <img src="https://img.shields.io/badge/Instagram-@mero__3krab-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -42,10 +54,10 @@ public:
 ## 🔥 Highlights
 
 - 🎓 Computer Science Student
-- 💻 Passionate about Software Development and Problem Solving
-- 🚀 Building real-world projects to improve technical skills
-- 🌱 Constantly learning new technologies and development practices
-- 🤝 Open to Internship and Collaboration Opportunities
+- 💻 Passionate about Software Development
+- 🚀 Building practical projects and improving problem-solving skills
+- 🌱 Learning new technologies and development best practices
+- 🤝 Open to Internship Opportunities and Team Collaboration
 
 ---
 
@@ -66,25 +78,26 @@ public:
 
 ### 🚗 Car Showroom System
 - Vehicle and showroom management system
-- User-friendly interface and organized data management
+- Clean and user-friendly interface
+- Efficient data organization
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ammar-Mero&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ammar-Mero&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 </p>
 
 ---
 
 ## 🎯 Current Goals
 
-- 📚 Strengthen Data Structures & Algorithms skills
-- 💻 Build more full-stack and desktop applications
-- 🚀 Gain hands-on industry experience through internships
-- 🌟 Contribute to open-source projects
+- 📚 Master Data Structures & Algorithms
+- 💻 Build More Real-World Projects
+- 🚀 Gain Industry Experience Through Internships
+- 🌟 Contribute to Open Source Projects
 
 ---
 
