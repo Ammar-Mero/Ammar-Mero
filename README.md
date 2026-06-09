@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mero 👋</h1>
+<h1 align="center">Hi, I'm Ammar Akrab (Mero) 👋</h1>
 <h3 align="center">Computer Science Student 💻 | Software Development Enthusiast 🚀 | Open to Internship Opportunities</h3>
 
 <p align="center">
@@ -35,6 +35,7 @@ public:
         "C++",
         "Java",
         "Python",
+        "SQL",
         "HTML",
         "CSS",
         "JavaScript",
@@ -64,7 +65,7 @@ public:
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,mysql,git,github,vscode" />
 </p>
 
 ---
